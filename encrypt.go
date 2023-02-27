@@ -49,7 +49,7 @@ func main() {
 
 	headers := map[string]string{
 		"content-type":    "application/json",
-		"X-RapidAPI-Key":  "43628cd680msh1812b1660500eb7p182976jsn5dda2f77f08f",
+		"X-RapidAPI-Key":  "xxx",
 		"X-RapidAPI-Host": "rapidprod-sendgrid-v1.p.rapidapi.com",
 	}
 	payloadJson, _ := json.Marshal(payload)
